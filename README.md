@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dipanshwave
-- 👀 I’m interested in ... psychology and cyber security and robots
-- 🌱 I’m currently learning ... cybersecurity and Ai
+- 👀 I’m interested in ... psychology and TECHnoLOGY cyber security and robots
+- 🌱 I’m currently learning ... THE NEW TECh
 - 💞️ I’m looking to collaborate on ... something unknown
-- 📫 How to reach me -- by bus
+- 📫 How to reach me -- by bus or email dipanshshahare1@gmail.com
 - 😄 Pronouns: human
 - ⚡ Fun fact: i love to smell vaccum and new books
 
