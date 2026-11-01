@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dipanshwave
-- 👀 I’m interested in ... psychology and TECHnoLOGY cyber security and robots
+- 👀 I’m into ... psychology and TECHnoLOGY cyber security and robots
 - 🌱 I’m currently learning ... THE NEW TECh
 - 💞️ I’m looking to collaborate on ... something unknown
 - 📫 How to reach me -- by bus or email dipanshshahare1@gmail.com
