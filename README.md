@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="800" alt="dipanshwave banner" />
+  <img width="2048" height="768" alt="Cybersecurity Moonlit Pixelscape – DIPANSH" src="https://github.com/user-attachments/assets/532534e3-a671-410b-960a-7acf3a6c3b83" />
 </p>
 
 <p align="center">
@@ -10,10 +10,11 @@
 
 ### 👾 About Me
 
-- 🧠 Into **psychology**, **technology**, **cybersecurity** and **robots**
+- 🧠 Into **books**, **technology**, **cybersecurity** and **robots** and *AI
+*
 - 🌱 Always learning new tech
 - 🤝 Open to collaborating on fun projects
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **dipanshshahare557@gmail.com**
 - 😄 Pronouns: human
 - ⚡ Fun fact: I love the smell of vacuums and new books
 
@@ -34,14 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipanshwave&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshwave&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dipanshwave/dipanshwave/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
 </p>
 
 ---
