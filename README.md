@@ -11,7 +11,6 @@
 ### 👾 About Me
 
 - 🧠 Into **books**, **technology**, **cybersecurity** and **robots** and *AI
-*
 - 🌱 Always learning new tech
 - 🤝 Open to collaborating on fun projects
 - 📫 Reach me at **dipanshshahare557@gmail.com**
