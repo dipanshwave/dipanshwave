@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2048" height="768" alt="Cybersecurity Moonlit Pixelscape – DIPANSH" src="https://github.com/user-attachments/assets/532534e3-a671-410b-960a-7acf3a6c3b83" />
+  <img width="2048" height="768" alt="8335b4f9-a752-41f6-b566-f1b1bb69a1b2" src="https://github.com/user-attachments/assets/37ec4ac2-a046-487e-afae-61ec45bf2143" />
 </p>
 
 <h3 align="center">⚡ PLAYER 1 HAS ENTERED THE GAME ⚡</h3>
@@ -42,8 +42,7 @@ weakness:   the smell of vacuums and new books 📚
 ### 🔥 Player Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipanshwave&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshwave&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img width="1280" height="480" alt="Lfw6qnZGwunYA4vkWKSpvEhxjYzQKyAUW6dVBnbsX9t344iyc3bDMErgxFY2Ws_d1aB3d4UWcIC5nt-eu9pCt0BlC03KdWbT3g1i29bYoNS_KLKmK_tIib-yo7XzFsGIRaSPipvkCZvR8LSpMXS4kOXojgfZhEkgfzydLGalUxx5RTYBCklM9DGr-OrITpqL" src="https://github.com/user-attachments/assets/9d4d6ebd-e470-40a8-9744-4dae1d844e75" />
 </p>
 
 ---
